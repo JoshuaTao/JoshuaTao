@@ -1,5 +1,5 @@
 ## <img src="wave.gif" width="30px">Hey,there! 
-### My name is Joshua.I am a quant living in Shanghai.
+My name is Joshua.I am a quant living in Shanghai.
 
 ## 🔧 Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00599c)
